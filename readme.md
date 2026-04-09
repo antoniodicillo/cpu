@@ -2,7 +2,6 @@
 
 ## Introdução
 
-![CPU](imagens/cpu.png)
 
 Este projeto consiste na implementação de uma CPU (Unidade Central de Processamento) utilizando o simulador Digital Logic Sim. A CPU integra um caminho de dados (datapath) e uma unidade de controle (control unit) para buscar instruções em memória, decodificá-las e executá-las de forma sequencial.
 
@@ -14,7 +13,7 @@ Nesta arquitetura, os registradores fundamentais para o ciclo de instrução sã
 - **ROM**: memória de instruções (somente leitura), onde o programa fica armazenado.
 - **Control Unit (CU)**: decodifica o opcode e gera os sinais de controle para movimentar dados e acionar a ALU.
 
-![CU](imagens/cu.png)
+![CPU](imagens/cpu.png)
 
 ---
 
