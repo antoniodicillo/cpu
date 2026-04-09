@@ -78,4 +78,4 @@ Em uma implementação “hardwired”, essa lógica é feita com portas e decod
 
 ## Demonstração em Vídeo
 
-Link para o vídeo demonstrativo da CPU em funcionamento: _(adicione aqui o link do vídeo)_
+Link para o vídeo demonstrativo da CPU em funcionamento: _(https://www.youtube.com/watch?v=3k8Sa3hP8zI)_
